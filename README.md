@@ -1,32 +1,21 @@
-# Exercícios de JavaScript
+Este repositório contém uma coleção de exercícios e recursos para capacitação em javascript, como parte do projeto Academy Callidus, no qual sou bolsista.
 
-Bem-vindo ao repositório de exercícios de JavaScript. Este repositório contém uma variedade de exercícios práticos para ajudá-lo a aprimorar suas habilidades de programação em JavaScript.
+## Sobre o Projeto Academy Callidus
 
-## Sobre o Repositório
-
-Este repositório é dedicado ao aprendizado e prática de JavaScript e cobre uma ampla gama de tópicos, desde conceitos básicos até tópicos mais avançados. Os exercícios são uma ótima maneira de consolidar seu conhecimento e aprimorar suas habilidades de codificação em JavaScript.
+O projeto "Academy Callidus" tem como objetivo capacitar os participantes em habilidades de programação e desenvolvimento de software. Este repositório é dedicado à matéria de Javascript e contém exercícios para ajudar no aprendizado e prática.
 
 ## Conteúdo
 
-O repositório está organizado em seções que contêm os seguintes tipos de conteúdo:
+O repositório é organizado em seções que contêm os seguintes tipos de conteúdo:
 
-- **Exercícios**: Exercícios práticos para reforçar seus conhecimentos em JavaScript.
-- **Projetos Pequenos**: Pequenos projetos práticos que aplicam os conceitos aprendidos.
-- **Recursos**: Links para recursos adicionais, como documentação, tutoriais e vídeos úteis.
+- **Exercícios**: Exercícios práticos para reforçar os conceitos de React.
+- **Projetos**: Projetos práticos relacionados à matéria de React.
+- **Recursos**: Links para recursos adicionais, como documentação, tutoriais e vídeos.
 
-## Como Usar Este Repositório
-
-1. Clone este repositório para sua máquina local usando `git clone`.
-2. Navegue pelas pastas para acessar os exercícios ou projetos que deseja trabalhar.
-3. Complete os exercícios ou estude os projetos para aprimorar suas habilidades em JavaScript.
-
-## Contribuições
-
-Se você deseja contribuir com seus próprios exercícios ou projetos, sinta-se à vontade para criar um fork deste repositório, adicionar suas contribuições e criar um pull request. Contribuições são bem-vindas!
+Certifique-se de manter um ambiente de colaboração respeitoso e seguir as diretrizes do projeto "Academy Callidus".
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de mais informações sobre os exercícios de JavaScript neste repositório, sinta-se à vontade para entrar em contato:
+Se você tiver alguma dúvida ou precisar de mais informações sobre os exercícios de React no projeto "Academy Callidus", sinta-se à vontade para entrar em contato:
 
-- Email: [seuemail@exemplo.com]
-
+- Email: [gsf.snf22@uea.edu.br]
