@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Componente select</title>
+    </head>
+    <body>
+        <form method ="get" action="#">
+            <label for="cars"> Escolha um carro: </label>
+            <select name="cars" id="cars">
+                <option value="BMW"> BMW</option>
+                <option value="saab"> Saab</option>
+                <option value="Fiat"> Fiat</option>
+                <option value="Audi"> Audi</option>
+                <option value="Volkswagen"> Volkswagen</option>
+            </select>
+            <input type="button" onclick="Escolha(this.form)">
+        </form>
+        <script>
+            function Escolha(form){
+                window.alert("Você escolheu a opção " + toString(form.select.value))
+            }
+        </script>
+    </body>
+</html>

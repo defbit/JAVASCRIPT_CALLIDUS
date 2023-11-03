@@ -1,0 +1,18 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>soma de dois numeros</title>
+</head>
+<body>
+   a: <input type="number" name="a" id="a"> <br>
+   b: <input type="number" name="b" id="b"> <br>
+   <button onclick="add(document.getElementById('a').value, document.getElementById('b').value)">soma</button>
+        <script>
+            function add(a,b){
+                var soma = parseInt(a)+parseInt(b);
+                window.alert(soma)
+            }
+        </script>
+</body>
+</html>
